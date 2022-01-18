@@ -1,0 +1,3 @@
+Hello everyone
+Anu here
+this is my assignment for git session
